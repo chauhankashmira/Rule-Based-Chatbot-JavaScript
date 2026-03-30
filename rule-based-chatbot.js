@@ -10,7 +10,7 @@ function getResponse(input) {
   }
 }
 
-// Testing commands
+
 console.log(getResponse("What are your opening hours?")); //pass
 console.log(getResponse("Tell me the price")); //pass
 console.log(getResponse("When do you open?")); // fails
