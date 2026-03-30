@@ -1,13 +1,17 @@
+
 function getResponse(input) {
   const text = input.toLowerCase();
 
   if (text.includes("opening hours")) {
     return "We are open from 9am to 5pm.";
+
   } else if (text.includes("price")) {
     return "Our prices start at £10.";
+  
   } else {
     return "Sorry, I don't understand.";
   }
+
 }
 
 
