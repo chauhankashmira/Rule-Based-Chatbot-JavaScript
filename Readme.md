@@ -1,6 +1,8 @@
 ## Rule-Based Chatbot
 
-It follows fixed rules written by a developer. It only recognizes exact or very specific phrases like “opening hours.” No learning. No adaptation.
+* It follows fixed rules. It only recognizes exact or very specific phrases such as “opening hours.”
+* No learning.
+* No adaptation.
 
 # Example:
 
@@ -14,31 +16,6 @@ It follows fixed rules written by a developer. It only recognizes exact or very 
 
 
 
-* If message contains “opening hours” → reply with hours
-* Otherwise → fallback response
+* If message contains “opening hours”, it will reply with hours; else fallback response
 
-
------------------------------------------------------------------------------------
-
-
-## Difference between Rule-Based, ML Chatbot, and Generative AI 
-
-| Feature            | Rule-Based | ML Chatbot    | Generative AI   |
-| ------------------ | ---------- | ------------- | --------------- |
-| Learns from data   | No         | Yes           | Yes             |
-| Handles variations | Poor       | Good          | Excellent       |
-| Responses          | Fixed      | Semi-flexible | Fully generated |
-| Complexity         | Low        | Medium        | High            |
-
-
-## Key Difference
-
-* **Rule-based chatbot:** matches keywords → gives pre-written replies
-* **ML chatbot:** understands intent → generates or selects smarter replies
-
-
-## Analogy
-
-* Rule-based bot = a flowchart
-* ML chatbot = a person who has learned from experience
 
