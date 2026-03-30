@@ -6,16 +6,16 @@
 
 # Example:
 
-* You: *“What are your opening hours?”*
+* prompt: *“What are your opening hours?”*
 
-* Bot: *“We are open from 9am to 5pm.”* //pass
+* ChatBot: *“We are open from 9am to 5pm.”* //pass
 
-* You: *“When do you open?”* 
+* prompt: *“When do you open?”* 
  
-* Bot: *“Sorry, I don’t understand.”* //recognise only word "opening", not "open" 
+* ChatBot: *“Sorry, I don’t understand.”* //recognise only word "opening", not "open" 
 
 
 
-* If message contains “opening hours”, it will reply with hours; else fallback response
+** If message contains “opening hours”, it will reply with hours; else fallback response
 
 
