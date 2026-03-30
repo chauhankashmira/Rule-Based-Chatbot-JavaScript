@@ -16,6 +16,6 @@
 
 
 
-** If message contains “opening hours”, it will reply with hours; else fallback response
+If message contains “opening hours”, it will reply with hours; else fallback response
 
 
