@@ -1,10 +1,10 @@
-## Rule-Based Chatbot
+# Rule-Based Chatbot
 
 * It follows fixed rules. It only recognizes exact or very specific phrases such as “opening hours.”
 * No learning.
 * No adaptation.
 
-# Example:
+## Example:
 
 * prompt: *“What are your opening hours?”*
 
